@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\source\\repos\\KodeLabsAssigneTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAA7894-1D8B-43E1-ABBD-1D32F92F5861}|Domain\\Domain.csproj|c:\\users\\anton\\source\\repos\\kodelabsassignetask\\domain\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAA7894-1D8B-43E1-ABBD-1D32F92F5861}|Domain\\Domain.csproj|solutionrelative:domain\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAA7894-1D8B-43E1-ABBD-1D32F92F5861}|Domain\\Domain.csproj|c:\\users\\anton\\source\\repos\\kodelabsassignetask\\domain\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAA7894-1D8B-43E1-ABBD-1D32F92F5861}|Domain\\Domain.csproj|solutionrelative:domain\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05673445-9040-4712-9A54-3BA8719F0A42}|Infrastructure\\Infrastructure.csproj|c:\\users\\anton\\source\\repos\\kodelabsassignetask\\infrastructure\\migrations\\20241008180213_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05673445-9040-4712-9A54-3BA8719F0A42}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241008180213_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495A7F53-AB02-4823-B180-5F27D21D11AC}|KodeLabsAssigneTask\\KodeLabsAssigneTask.csproj|c:\\users\\anton\\source\\repos\\kodelabsassignetask\\kodelabsassignetask\\kodelabsassignetask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{495A7F53-AB02-4823-B180-5F27D21D11AC}|KodeLabsAssigneTask\\KodeLabsAssigneTask.csproj|solutionrelative:kodelabsassignetask\\kodelabsassignetask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataSource.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\KodeLabsAssigneTask\\Domain\\DataSource.cs",
+              "RelativeDocumentMoniker": "Domain\\DataSource.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\KodeLabsAssigneTask\\Domain\\DataSource.cs",
+              "RelativeToolTip": "Domain\\DataSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:03:21.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\KodeLabsAssigneTask\\Domain\\Sensor.cs",
+              "RelativeDocumentMoniker": "Domain\\Sensor.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\KodeLabsAssigneTask\\Domain\\Sensor.cs",
+              "RelativeToolTip": "Domain\\Sensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:03:16.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241008180213_initmigration.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\KodeLabsAssigneTask\\Infrastructure\\Migrations\\20241008180213_initmigration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241008180213_initmigration.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\KodeLabsAssigneTask\\Infrastructure\\Migrations\\20241008180213_initmigration.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241008180213_initmigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:02:14.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KodeLabsAssigneTask",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\KodeLabsAssigneTask\\KodeLabsAssigneTask\\KodeLabsAssigneTask.csproj",
+              "RelativeDocumentMoniker": "KodeLabsAssigneTask\\KodeLabsAssigneTask.csproj",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\KodeLabsAssigneTask\\KodeLabsAssigneTask\\KodeLabsAssigneTask.csproj",
+              "RelativeToolTip": "KodeLabsAssigneTask\\KodeLabsAssigneTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T17:58:39.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

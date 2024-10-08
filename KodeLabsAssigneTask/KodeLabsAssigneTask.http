@@ -1,0 +1,6 @@
+@KodeLabsAssigneTask_HostAddress = http://localhost:5075
+
+GET {{KodeLabsAssigneTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
